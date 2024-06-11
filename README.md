@@ -62,7 +62,7 @@ This guide provides step-by-step instructions on how to route Google Cloud logs 
 
 ### 13. Set Sink Filter
 
-![Set Sink Filter](https://imgur.com/T5lzak4.png)
+![Set Sink Filter](https://imgur.com/3a1yJzE.png)
 
 ### 14. Create Cloud Function
 
